@@ -20,3 +20,17 @@ let name3 = true
 console.log(typeof name1)
 console.log(typeof name2)
 console.log(typeof name3)
+
+// Type of null is object but it is not an object, it is a primitive value. It is a bug in JS.
+
+// typeof name and typeof (name) are same but typeof name() is different because it is a function call.  
+
+// to convert a string to number we can use Number() function but N must be capital. 
+
+// Agar kisi ko Number mea convert kiya Number() function ka use karke lekin vo number nahi hai to Uski jagah NaN store ho jayega i.e Not a Number
+
+// Null ka Number is 0. Undefined ka Number is NaN. Bool ka 1 if true and 0 if false.
+
+// Like Number(), there are Boolean() and String(). [Keep first alphabet capital.]
+
+// "" ka boolean conversion is false. "Amogh" ka boolean is true.
