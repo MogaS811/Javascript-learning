@@ -1,0 +1,1 @@
+"use strict" // Treat all code as a newer version.
