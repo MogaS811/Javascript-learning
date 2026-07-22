@@ -10,6 +10,8 @@ let user = {
     city:"Panipat"
 }; // an object but remember ki if (let user =) nahi likhenge i.e direct {} start krenge to error dega because use lagega ye ek code bloack hai aur ; expect krega. A ";" is expected only after object ends.
 
+// Object ke andar kuch access karne ke liye . operator ka use kiya jata hai i.e user.name = "...." etc. etc.
+
 console.log(typeof user) // outputs object i.e typeof array is object.
 
 // Functions are defined as : function(){...}
